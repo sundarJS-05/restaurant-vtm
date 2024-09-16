@@ -1,0 +1,30 @@
+
+.navigation-menu{
+    list-style: none;
+    display: flex;
+    align-items:flex-start;
+    justify-content: center;
+
+}
+
+.navigation-menu li{
+    margin: 0px 24px;
+    padding: 0px 11px;
+}
+
+.navigation-menu a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+/* for mobile navgn */
+
+.mobile-navigation {
+    list-style: none;
+
+}
+
+.mobile-navigation li {
+    margin: 10px;
+
+}
