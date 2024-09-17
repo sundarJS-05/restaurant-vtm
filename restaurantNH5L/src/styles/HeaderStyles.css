@@ -16,3 +16,20 @@
     text-decoration: none;
     color: whitesmoke;
 }
+
+/* for mobile navgn */
+
+.mobile-navigation {
+    list-style: none;
+
+}
+
+.mobile-navigation li {
+    margin: 10px;
+
+}
+
+.active{
+    color:purple !important;
+    font-weight: bold !important
+}
