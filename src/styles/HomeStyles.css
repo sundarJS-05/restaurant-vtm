@@ -1,0 +1,41 @@
+.home{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items:normal;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.headerContainer{
+    width: auto;
+    margin-bottom: 26px;
+
+}
+
+.home .headerContainer h3{
+    justify-content: center;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.home .headerContainer p{
+    margin-top: 15px;
+    padding: 2px;
+    font-size: 23px;
+    font-weight: lighter;
+    color: blueviolet;
+}
+
+.home .headerContainer button{
+    margin: 35px;
+    padding: 20px;
+    border: 7px;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: black;
+    color: aquamarine;
+}
